@@ -65,11 +65,14 @@ SWOT analysis is a framework used to evaluate a one’s competitive position by 
 ●	    Threat:
 ●	Manual load allocation on systems.
  
-## 5.  4 W's and 1 H:
+## 5.  5 W's and 1 H:
 ●	Where is it used?
 In system work allocation systems using resources.
-
+● Why is is used?
+To find the best way to allocate the load among computers using resources available.
+● Which is the best available solution for this particular problem?
+Travelling sales men approach.
 ●	Who is going to be benefited?
 Manager tries to allocate the load.
-How does it work?
+● How does it work?
 It works on the principle of finding the shortest path between initial node and final node.
