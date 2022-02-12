@@ -20,17 +20,21 @@ To optimally use the resources of the cluster and want the load on the nodes of 
 To optimally use the resources of the cluster and want the load on the nodes of the cluster to be balanced and don't want to spend a huge networking cost in transferring the jobs in between the nodes.
  
 ## 3.  Requirements:
-Basically, requirements are statements that indicate what a system needs to do in order to provide a capability (i.e., utility or benefit.) Requirements are generally prepared during the early stages of a project's system development life cycle (SDLC.) There are many different SDLC methodologies that are used in practice. [1]
+Requirements are the statements that indicate what a product/system needs to do in order to provide a capability (which may be utility or benefit.) 
  
 
 
 
 ### 3.1          High level requirements:
- A project's high-level requirements are the fundamental information that its stakeholders use to authorise and establish a project starting point. The project's stakeholders usually establish its high-level requirements in the early stages of planning and use a formal document named project charter to record them.[2]
+
 Read number of computers in a cluster
+
 Read elements in the form of a matrix
+
 Able to identify the next computer(node).
+
 Display the minimum cost of the matrix
+
 Display the path 
  
 ### 3.2          Low level requirements:
