@@ -1,4 +1,7 @@
 # M1_PathFinding_Utility
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c372028840dd4dcba01b72e62135c185)](https://app.codacy.com/gh/vinayaksinghmokhashi/M1_PathFinding_Utility?utm_source=github.com&utm_medium=referral&utm_content=vinayaksinghmokhashi/M1_PathFinding_Utility&utm_campaign=Badge_Grade_Settings)
+
 ## Problem description:
 To optimally use the resources of the cluster and want the load on the nodes of the cluster to be balanced and don't want to spend a huge networking cost in transferring the jobs in between the nodes.
 ## High level requirements:
