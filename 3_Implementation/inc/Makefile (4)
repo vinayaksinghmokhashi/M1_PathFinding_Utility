@@ -1,0 +1,4 @@
+#TargetName:Dependencies
+#<TAB>commands
+Build : PathFinding.c
+	gcc PathFinding.c -o PathFinding.c PathFinding.out
