@@ -95,6 +95,10 @@ Manual load allocation on systems.
 
 In system work allocation systems using resources.
 
+●	What is the main advantage?
+
+Effective use of resources, reduced run time and ease of functionality.
+
 ● Why is is used?
 
 To find the best way to allocate the load among computers using resources available.
