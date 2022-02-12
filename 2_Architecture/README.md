@@ -1,4 +1,7 @@
 # Architecture
 ## Structural diagrams.
-## Flow charts.
-## Use case diagrams.
+### Flow charts.
+## Behavioural diagram.
+### Use case diagrams.
+### Activity diagrams
+
