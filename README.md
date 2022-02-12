@@ -1,5 +1,5 @@
 # M1_PathFinding_Utility
-### 2.1                Problem description:
+## Problem description:
 To optimally use the resources of the cluster and want the load on the nodes of the cluster to be balanced and don't want to spend a huge networking cost in transferring the jobs in between the nodes.
 ## High level requirements:
 ###	Read number of computers in a cluster.
