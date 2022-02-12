@@ -49,3 +49,8 @@ To optimally use the resources of the cluster and want the load on the nodes of 
 ### ● How does it work?
 ### It works on the principle of finding the shortest path between initial node and final node.
   
+## Code quality
+https://api.codiga.io/project/31226/score/svg
+
+##  Code grade
+https://api.codiga.io/project/31226/status/svg
