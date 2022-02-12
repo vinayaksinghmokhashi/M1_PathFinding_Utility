@@ -1,4 +1,5 @@
 ## Table 1
+
 ## High Level Test plan
 |Test id| Description| Exp I/P | Exp O/P |Actual O/P | Test type|
 |-------|------------|---------|---------|-----------|----------|
@@ -7,6 +8,8 @@
 |3| Identify next node | neighbouring nodes | Nodes | Success |Techical base |
 |4| Display cost | Previous I/Ps | Cost of path |  Success |Techical base |
 |5| Display Path | Previous I/Ps | Desired path |  Success |Techical base |
+
+## Table 2
 
 ## Low Level Test plan
 
