@@ -53,41 +53,25 @@ Reading the number of clusters and reading the elements of the matrix is manual 
  
 ## 4.  SWOT analysis:
 
-●	Strengths: 
-
-Efficient load distribution to each computer in the cluster.
-
-Reduced response time.
-
-Optimised usage of resources present.
-
-Reduced networking cost.
+|●	Strengths: |●	Opportunities: |
+|-------------|-----------------|
+|Efficient load distribution to each computer in the cluster.|Displaying the cluster in matrix form.|
+|Reduced response time.|Load analyses.|
+|Optimised usage of resources present.|Better time management. |
+|Reduced networking cost.| Best path allocation.|
 
 
-●	Opportunities:
-
-Displaying the cluster in matrix form.
-
-Load analyses.
-
-Better time management.
-
-Best path allocation.
 
 
-●	     Weaknesses:
 
-Not suitable for a large cluster of computers.
-
+|●	Weaknesses:|●	Threat:|
+|-------------|---------|
+|Not suitable for a large cluster of computers.
 Execution time dependency on the number of systems in a cluster.
-
 Needs user inputs.
+Involves Matrix calculations.|Manual load allocation on systems.|
 
-Involves Matrix calculations.
 
-●	    Threat:
-
-Manual load allocation on systems.
  
 ## 5.  5 W's and 1 H:
 
