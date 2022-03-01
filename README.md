@@ -14,7 +14,7 @@ Design
 
 Test Plan
 
-## Description
+# Descrition
 
 ## 1.  Introduction:
 A project is composed of various different domains. Each domain has a set of functions to be carried out. In a project, all the resources available must be made available to all the domains and must be shared in a balanced way. Any imbalance in the resource distribution can cause delay in the completion of work leading to maximised cost. This problem addresses optimization of this kind of scenario.
@@ -43,78 +43,37 @@ Requirements are the statements that indicate what a product/system needs to do 
 
 ### 3.1          High level requirements:
 
-Read number of computers in a cluster
-
-Read elements in the form of a matrix
-
-Able to identify the next computer(node).
-
-Display the minimum cost of the matrix
-
-Display the path 
+| Test ID | Description | Category | 
+|---------|-------------|----------|
+|HLR_01 |Read number of computers in a cluster | Technical |
+| HLR_02 |Read elements in the form of a matrix |Technical |
+|HLR_03|Able to identify the next computer(node).| Technical |
+|HLR_04|Display the minimum cost of the matrix | Technical |
+|HLR_05|Display the path |Technical|
  
 ### 3.2          Low level requirements:
 
-1) To identify the initial computer to start with among a cluster of computers.
-
-2) Identify the neighbouring computer in the network.
-
-3) Choose the next computer for load enhancement.
-
-4) Evaluate the load from initial computer to present computer.
-
-5) Accordingly select the next computer for load allotment.
-
-Reading the number of clusters and reading the elements of the matrix is manual and done by the user.
+| Test ID | Description |HLR ID | Category | 
+|---------|-------------|-------|----------|
+|LLR_01|To identify the initial computer to start with among a cluster of computers.|HLR_01| Technical |
+|LLR_02| Identify the neighbouring computer in the network.|HLR_02| Technical |
+|LLR_03| Choose the next computer for load enhancement.|HLR_03| Technical |
+|LLR_04| Evaluate the load from initial computer to present computer.|HLR_04| Technical |
+|LLR_05| Accordingly select the next computer for load allotment.|HLR_05| Technical |
+LLR_05|Reading the number of clusters and reading the elements of the matrix.|HLR_01| Technical |
  
 ## 4.  SWOT analysis:
 
-|●	Strengths: |●	Opportunities: |
-|-------------|-----------------|
-|Efficient load distribution to each computer in the cluster.|Displaying the cluster in matrix form.|
-|Reduced response time.|Load analyses.|
-|Optimised usage of resources present.|Better time management. |
-|Reduced networking cost.| Best path allocation.|
+![1_swot](https://user-images.githubusercontent.com/98843684/156121273-3e6cea85-5266-409b-903d-94c148a86b6c.png)
 
 
-
-
-
-|●	Weaknesses:|●	Threat:|
-|-------------|---------|
-|Not suitable for a large cluster of computers.
-Execution time dependency on the number of systems in a cluster.
-Needs user inputs.
-Involves Matrix calculations.|Manual load allocation on systems.|
 
 
  
 ## 5.  5 W's and 1 H:
 
-●	Where is it used?
 
-In system work allocation systems using resources.
-
-●	What is the main advantage?
-
-Effective use of resources, reduced run time and ease of functionality.
-
-● Why is is used?
-
-To find the best way to allocate the load among computers using resources available.
-
-● Which is the best available solution for this particular problem?
-
-Travelling sales men approach.
-
-●	Who is going to be benefited?
-
-Manager tries to allocate the load.
-
-● How does it work?
-
-It works on the principle of finding the shortest path between initial node and final node.
-
+![Untitled (1)](https://user-images.githubusercontent.com/98843684/156121126-7f918fef-1137-4fa9-b861-5692ccdbbaf9.png)!
 
 # Code Badges
 ## From Codiga
