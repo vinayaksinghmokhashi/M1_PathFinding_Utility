@@ -73,7 +73,7 @@ LLR_05|Reading the number of clusters and reading the elements of the matrix.|HL
 ## 5.  5 W's and 1 H:
 
 
-![Untitled (1)](https://user-images.githubusercontent.com/98843684/156121126-7f918fef-1137-4fa9-b861-5692ccdbbaf9.png)!
+![Untitled (1)](https://user-images.githubusercontent.com/98843684/156121126-7f918fef-1137-4fa9-b861-5692ccdbbaf9.png)
 
 # Code Badges
 ## From Codiga
