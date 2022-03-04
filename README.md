@@ -19,7 +19,7 @@ Design
 
 Test Plan
 
-# Descrition
+## Descrition
 
 ## 1.  Introduction
 A project is composed of various different domains. Each domain has a set of functions to be carried out. In a project, all the resources available must be made available to all the domains and must be shared in a balanced way. Any imbalance in the resource distribution can cause delay in the completion of work leading to maximised cost. This problem addresses optimization of this kind of scenario.
@@ -66,5 +66,3 @@ LLR_05|Reading the number of clusters and reading the elements of the matrix.|HL
 
 ## 5.  5 W's and 1 H
 ![Untitled (1)](https://user-images.githubusercontent.com/98843684/156121126-7f918fef-1137-4fa9-b861-5692ccdbbaf9.png)
-
-
