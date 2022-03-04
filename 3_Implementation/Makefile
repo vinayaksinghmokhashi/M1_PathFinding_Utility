@@ -19,7 +19,7 @@ else
  endif
 endif
 
-INC=-Iinclude\
+INC=-Iinc\
 -Iunity\
 
 Build:
