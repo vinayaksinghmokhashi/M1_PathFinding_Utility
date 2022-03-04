@@ -2,6 +2,16 @@
 
 Repositary for path finding utility
 
+## About the code
+## Code score
+![Codacy Badge](https://api.codiga.io/project/31226/score/svg)
+
+## Code grade
+![Codacy Badge](https://api.codiga.io/project/31226/status/svg)
+
+
+
+
 ## Milestone -1
 
 Folder Structure
@@ -75,17 +85,4 @@ LLR_05|Reading the number of clusters and reading the elements of the matrix.|HL
 
 ![Untitled (1)](https://user-images.githubusercontent.com/98843684/156121126-7f918fef-1137-4fa9-b861-5692ccdbbaf9.png)
 
-# Code Badges
-## From Codiga
-## Code score
-https://api.codiga.io/project/31226/score/svg
-
-## Code grade
-https://api.codiga.io/project/31226/status/svg
-
-## From Codecy
-
-## code quality
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/13f7e298c4834940b95949e267ddfaa1)](https://www.codacy.com/gh/vinayaksinghmokhashi/M1_PathFinding_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinayaksinghmokhashi/M1_PathFinding_Utility&amp;utm_campaign=Badge_Grade)
 
