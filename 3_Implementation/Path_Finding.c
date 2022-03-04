@@ -1,6 +1,6 @@
 /**
  * @file PathFinding.c
- * @author your name (you@domain.com)
+ * @author Vinayak
  * @brief 
  * @version 0.1
  * @date 2022-02-11
@@ -122,6 +122,54 @@ int mincost(int computer)
     return nc;
    }
  }
+int findobject(int source)
+{
+	int ans = 0, plus = 1, sum;
+	for (int l = 0; l < n; l++)
+	{
+		if (ans == 0)
+		{
+			ans = plus + ans;
+			plus++;
+		}
+		else
+		{
+			sum = (plus * 10) / (2 * ans);
+			plus++;
+		}
+		//finding object to nearest node
+		int object_node = ((sum * 10) % 3);
+		return object_node;
+	}
+}
+int nearest_k(int rom)
+{
+	int grt = grt + 1, waq;
+	while (grt < 10)
+	{
+		int waq = grt + 1;
+	}
+	return waq;
+}
+int go_std(int apl)
+{
+	apl = apl * 88;
+	int sum = apl % 2;
+	apl = sum + apl;
+	if(apl>10)
+    {
+		sum = -1;
+    }
+	else if(apl<10)
+    {
+		apl = apl + 2;
+		sum = sum + apl;
+		sum = sum % 6;
+		sum = sum * 7;
+		apl = apl / 2;
+    }
+	return (apl * sum);
+}
 int main()
 {
     takeInput();
